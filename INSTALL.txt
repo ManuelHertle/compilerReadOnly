@@ -5,4 +5,3 @@ Kommando aus:
 
 
 Zum deinstallieren der Haskell Plattform informieren Sie sich im Internet.
-test
